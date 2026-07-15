@@ -35,11 +35,5 @@ strap grips (2x)
 lens plate
 
 for BOM:
-Screws & Nuts
-4x M2.5 for fpga
-4x M2.5 for grips
-2x M2.5 for housing<>cover tabs
-2x M2.5 for display holder
-6x M2 for CRT PCB's
-4x M1.6 for PCB brackets
-1x M2.5 for lens plate
+Screws & Nuts --
+4x M2.5 for fpga; 4x M2.5 for grips; 2x M2.5 for housing<>cover tabs; 2x M2.5 for display holder; 6x M2 for CRT PCB's; 4x M1.6 for PCB brackets; 1x M2.5 for lens plate
