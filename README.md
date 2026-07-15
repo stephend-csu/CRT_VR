@@ -28,11 +28,7 @@ Sony FD-230
 "onn Deluxe Cooling Strap Work with Meta Quest 2 or Oculus Quest 2 VR Headset"
 
 10 printed parts:
-housing + glasses insert
-shell + shell lid + tracker tab insert
-display holder + display bracket
-strap grips (2x)
-lens plate
+housing + glasses insert; shell + shell lid + tracker tab insert; display holder + display bracket; strap grips (2x); lens plate
 
 for BOM:
 Screws & Nuts --
