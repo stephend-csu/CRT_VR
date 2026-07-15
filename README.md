@@ -4,18 +4,19 @@ VR system made from old portable TV's
 
 for Steam VR
 
+## Repositories
+
+https://github.com/alanbog?tab=repositories
+
 ## Video
 
 https://www.youtube.com/watch?v=rYPhC9lsVYs&t=544s
 
 ## Photos
 
-<img width="639" height="743" alt="Screenshot 2026-07-15 154615" src="https://github.com/user-attachments/assets/bfba555f-f2fb-4e80-afc1-5b88263bd695" />
 <img width="667" height="549" alt="Screenshot 2026-07-15 154543" src="https://github.com/user-attachments/assets/dcf19763-9418-4679-bc6a-9fe56c3e9bfa" />
 
-## Repositories
-
-https://github.com/alanbog?tab=repositories
+<img width="639" height="743" alt="Screenshot 2026-07-15 154615" src="https://github.com/user-attachments/assets/bfba555f-f2fb-4e80-afc1-5b88263bd695" />
 
 ## Parts
 
