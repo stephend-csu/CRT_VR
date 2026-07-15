@@ -1,4 +1,4 @@
-# CRT_VR
+# CRT VR
 
 VR system made from old portable TV's
 
